@@ -22,7 +22,7 @@ A complete Data Analysis projects using EXCEL with following formulas
 - Data Cleaning
 
 
-- Excel Final Project
+- Excel Final Project  -  Cleaning the data, drawing the pivot tables and charts, creating the dashboard.
 
 
 
