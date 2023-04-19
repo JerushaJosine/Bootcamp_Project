@@ -13,10 +13,16 @@ A complete Data Analysis projects using EXCEL with following formulas
 - Formulas
 
 
--Conditional Formatting
+- Conditional Formatting
 
 
--Graphs
+- Graphs
+
+
+- Data Cleaning
+
+
+- Excel Final Project
 
 
 
