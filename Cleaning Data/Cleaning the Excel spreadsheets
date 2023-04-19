@@ -1,0 +1,15 @@
+First we actually need to know how to identify what we need to clean in the data.
+
+1. Formatting
+
+2. Standardization
+
+3. Spelling errors
+
+4. Additional Spaces
+
+5. Dates format
+
+6. Currencies - It is important if we are importing curriencies into the sql, it is kinda unnecessary and it gives a problem in a long run.
+
+7. Duplicated Data - (Data is not duplication is the far most important issue in a spreadsheet).
