@@ -16,7 +16,7 @@ A complete Data Analysis projects using EXCEL with following formulas
 - Conditional Formatting
 
 
-- Graphs
+- Excel Charts
 
 
 - Data Cleaning
