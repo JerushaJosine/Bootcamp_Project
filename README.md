@@ -1,7 +1,7 @@
 # Bootcamp_Project
 
 
-A complete Data Analysis projects using EXCEL with following formulas
+A complete Data Analysis projects using EXCEL with following formulas 
 
 
 - Pivot Tables
@@ -12,6 +12,11 @@ A complete Data Analysis projects using EXCEL with following formulas
 
 - Formulas
 
+
+-Conditional Formatting
+
+
+-Graphs
 
 
 
