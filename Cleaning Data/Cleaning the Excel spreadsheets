@@ -6,15 +6,15 @@ In this project I am using the US President dataset.
 
 First we actually need to know how to identify what we need to clean in the data.
 
-1. Formatting
+1. Formatting- REMOVE DUPLICATES
 
-2. Standardization
+2. Standardization - EDIT NAMES: UPPER, LOWER OR PROPER FUNCTION
 
-3. Spelling errors
+3. Spelling errors -APPLY FILTER AND REMOVE UNNECESSARY DATA 
 
-4. Additional Spaces
+4. Additional Spaces - TRIM FUNCTION TO TRIM WHITE SPACES
 
-5. Dates format
+5. Dates format - ISSUE WITH NUMERICAL DATA : CURRENCIES, DATES 
 
 6. Currencies - It is important if we are importing curriencies into the sql, it is kinda unnecessary and it gives a problem in a long run.
 
