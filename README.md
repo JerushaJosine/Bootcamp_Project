@@ -4,7 +4,7 @@
 
 
 
-A complete Data Analysis projects using EXCEL with following formulas 
+An Interactive Data Analysis projects using EXCEL with following formulas 
 
 
 - Pivot Tables
