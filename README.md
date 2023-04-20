@@ -7,29 +7,20 @@
 
 
 
-An Interactive Data Analysis projects using EXCEL with following formulas 
+An Interactive Data Analysis projects using EXCEL 
 
 
-- Pivot Tables
+- The objective of this project is to create an interactive bike sales dashboard using Excel, focusing on four different categories such as Regions (Europe, North America, Pacific), Gender, Martial status of customers and different Educational backgrounds.
+ 
+
+- The Project will start by importing and cleaning the raw data related to bike sales in three regions. The data will be carefully cleaned and standardized to ensure accuracy and consistency. This may involve removing duplicates, correcting errors, and standardizing data formats.
 
 
-- XLOOKUP
+- Next, the cleaned data will be analyzed using various Excel functionalities to extract insights and trends. Pivot Tables will be utilized to summarize and aggregate sales data based on different categories such as Customer Income, Customer Age, Commute distance (Miles), Region.  This will provide a comprehensive overview of sales performance across different categories and regions.
 
 
-- Formulas
+- Excel charts will be created to visually represent the analyzed data. Different types of charts, such as bar charts, line charts, will be used used to present the data in an easy-to-understand manner. 
 
 
-- Conditional Formatting
-
-
-- Excel Charts
-
-
-- Data Cleaning
-
-
-- Excel Final Project  -  Cleaning the data, drawing the pivot tables and charts, creating the dashboard.
-
-
-
+- In the same GitHub repository there are another additional Excel functionalities are performed. They are Pivot tables, XLOOKUP, Conditional Formatting, Excel charts, Data cleaning.
 
