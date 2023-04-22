@@ -19,7 +19,7 @@ An Interactive Data Analysis projects using EXCEL
 - Next, the cleaned data will be analyzed using various Excel functionalities to extract insights and trends. Pivot Tables will be utilized to summarize and aggregate sales data based on different categories such as Customer Income, Customer Age, Commute distance (Miles), Region.  This will provide a comprehensive overview of sales performance across different categories and regions.
 
 
-- Excel charts will be created to visually represent the analyzed data. Different types of charts, such as bar charts, line charts, will be used used to present the data in an easy-to-understand manner. 
+- Excel charts will be created to visually represent the analyzed data. Different types of charts, such as bar charts, line charts, will be used to present the data in an easy-to-understand manner. 
 
 
 - In the same GitHub repository there are another additional Excel functionalities are performed. They are Pivot tables, XLOOKUP, Conditional Formatting, Excel charts, Data cleaning.
