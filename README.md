@@ -10,7 +10,7 @@
 An Interactive Data Analysis projects using EXCEL 
 
 
-- The objective of this project is to create an interactive bike sales dashboard using Excel, focusing on four different categories such as Regions (Europe, North America, Pacific), Gender, Martial status of customers and different Educational backgrounds.
+- The objective of this project is to create an interactive bike sales dashboard using Excel, focusing on four different categories such as Regions (Europe, North America, Pacific), Gender, Marital status of customers and different Educational backgrounds.
  
 
 - The Project will start by importing and cleaning the raw data related to bike sales in three regions. The data will be carefully cleaned and standardized to ensure accuracy and consistency. This may involve removing duplicates, correcting errors, and standardizing data formats.
